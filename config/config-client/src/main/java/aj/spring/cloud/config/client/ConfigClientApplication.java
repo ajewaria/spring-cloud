@@ -1,4 +1,4 @@
-package aj.spring.cloud.config.client.config_client;
+package aj.spring.cloud.config.client;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
